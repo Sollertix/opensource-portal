@@ -73,7 +73,7 @@
     "github-username-regex": "^1.0.0",
     "hsts": "2.2.0",
     "language-map": "1.4.0",
-    "lodash": "4.17.19",
+    "lodash": "4.17.21",
     "luxon": "1.24.1",
     "memory-cache": "0.2.0",
     "moment": "2.27.0",
