@@ -81,7 +81,7 @@
     "morgan": "1.10.0",
     "mz": "2.7.0",
     "node-jose": "1.1.4",
-    "nodemailer": "6.4.11",
+    "nodemailer": "6.4.16",
     "oauth": "0.9.x",
     "object-path": "0.11.4",
     "octicons": "5.0.1",
